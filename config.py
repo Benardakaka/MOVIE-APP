@@ -8,8 +8,7 @@ class Config:
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://postgres:20302000b@localhost/moviez'
     UPLOADED_PHOTOS_DEST ='app/static/photos'
     
-    MOVIE_URL = "https://api.themoviedb.org/3/movie/550?api_key=04319e158b74fc6aa9055b417b68d78c"
-    SQLALCHEMY_TRACK_MODIFICATIONS = True
+    MOVIE_URL = "https://api.themoviedb.org/3/search/movie?api_key=7ef2476e485cb858f1c9ab9acea947f3"
     MOVIE_API_KEY='04319e158b74fc6aa9055b417b68d78c'
 
 
