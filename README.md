@@ -1,4 +1,4 @@
-# Movie-App
+# Movie-App.
 
 #### Author: [Benard Akaka](https://github.com/Benardakaka)
 
