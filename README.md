@@ -11,7 +11,6 @@ This is a python/flask application that manage the user to search His/Her movies
 ## User Stories
 The user would like to.. :
 * Create an account for the application.
-* Store my existing acounts login details for various accounts that i have registered for.
 * Generate new password for an account that i haven't registered for and store it with the account name.   
 * Delete stored account login details that i do now want anymore.
 
@@ -31,6 +30,8 @@ The user would like to.. :
  
 * [Python3.6]
 * [Flask]
+* [Bootstrap]
+
 ## Built With
 
 * [Python3.6](https://docs.python.org/3/)
